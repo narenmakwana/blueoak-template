@@ -1,0 +1,9 @@
+{
+	"ext": ".js,.json,.yaml",
+	"ignore": [
+		"./node_modules/",
+    "./swagger/*.yaml",
+    "./swagger/*.json"
+	],
+	"exec": "npm start"
+}
